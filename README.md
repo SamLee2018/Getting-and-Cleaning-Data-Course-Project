@@ -1,8 +1,10 @@
 # Getting-and-Cleaning-Data-Course-Project
-this is the final assignment for week4 of Getting and Cleaning Data Coursera Course
+This is the final assignment for week4 of Getting and Cleaning Data Coursera Course
 
 Data were downloaded and unzipped in R working directory
 Data contain training data from 30 human subjects who wore Samsung Galaxy smart phone on their waist with six different actibities. x data is for signal and y data is for activity.
+Detailed information regrading for the experiments:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Codes are from test and training data sets.
 
